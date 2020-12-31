@@ -193,4 +193,4 @@
 	}
 	```
 
-- 動態規劃:
+### 20201231 update: [Leetcode collections](https://github.com/CubatLin/LeetCode-101/blob/master/Essential%20Leetcode%20Collection.xlsx)
