@@ -1,4 +1,4 @@
-[List](https://leetcode.com/list/5f6kgmnj/)
+### [Blind Curated 75](https://leetcode.com/list/5f6kgmnj/)
 |序號|題目|連結|完成度|備註|
 |------|------|------|------|------|
 |01|1.Two Sum|https://leetcode.com/problems/two-sum/?envType=list&envId=5f6kgmnj|||
