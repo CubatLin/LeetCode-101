@@ -2,7 +2,7 @@
 |序號|題目|連結|完成度|備註|
 |------|------|------|------|------|
 |01|1.Two Sum|https://leetcode.com/problems/two-sum/?envType=list&envId=5f6kgmnj|||
-|02|2.Longest Substring Without Repeating Characters|https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=list&envId=5f6kgmnj|||
+|02|2.Longest Substring Without Repeating Characters|https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=list&envId=5f6kgmnj|[x]|要注意字母順序的狀態下，每個英文單字只要出現|
 |03|3.Longest Palindromic Substring|https://leetcode.com/problems/longest-palindromic-substring/?envType=list&envId=5f6kgmnj|||
 |04|4.Container With Most Water|https://leetcode.com/problems/container-with-most-water/?envType=list&envId=5f6kgmnj|||
 |05|5.3Sum|https://leetcode.com/problems/3sum/?envType=list&envId=5f6kgmnj|||
