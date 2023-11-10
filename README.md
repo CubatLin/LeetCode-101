@@ -10,7 +10,7 @@
 | 08 | 8.Merge Two Sorted Lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists/?envType=list&envId=5f6kgmnj) |  |  |
 | 09 | 9.Merge k Sorted Lists | [Link](https://leetcode.com/problems/merge-k-sorted-lists/?envType=list&envId=5f6kgmnj) |  |  |
 | 10 | 10.Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/?envType=list&envId=5f6kgmnj) |  |  |
-| 11 | 11.Combination Sum | [Link](https://leetcode.com/problems/combination-sum/?envType=list&envId=5f6kgmnj) |  |  |
+| 11 | 11.Combination Sum | [Link](https://leetcode.com/problems/combination-sum/?envType=list&envId=5f6kgmnj) | V | 注意DFS在記錄的時候，有排序過後的加入才可以避免重複加入組合(剪枝也還沒用到) |
 | 12 | 12.Rotate Image | [Link](https://leetcode.com/problems/rotate-image/?envType=list&envId=5f6kgmnj) |  |  |
 | 13 | 13.Group Anagrams | [Link](https://leetcode.com/problems/group-anagrams/?envType=list&envId=5f6kgmnj) |  |  |
 | 14 | 14.Maximum Subarray | [Link](https://leetcode.com/problems/maximum-subarray/?envType=list&envId=5f6kgmnj) |  |  |
@@ -75,4 +75,5 @@
 | 73 | 73.Subtree of Another Tree | [Link](https://leetcode.com/problems/subtree-of-another-tree/?envType=list&envId=5f6kgmnj) |  |  |
 | 74 | 74.Palindromic Substrings | [Link](https://leetcode.com/problems/palindromic-substrings/?envType=list&envId=5f6kgmnj) |  |  |
 | 75 | 75.General Backtracking | [Link](https://leetcode.com/problems/combinations/solutions/429526/general-backtracking-questions-solutions-in-python-for-reference/) |  |  |
+| 76 | 76.Combinations | [Link](https://leetcode.com/problems/combinations/) | V | 沒有有效剪枝 |
 
