@@ -1,6 +1,6 @@
 |序號|題目|連結|完成度|備註|
 |------|------|------|------|------|
-| 01 | 1.Two Sum | [Link](https://leetcode.com/problems/two-sum/?envType=list&envId=5f6kgmnj) |  |  |
+| 01 | 1.Two Sum | [Link](https://leetcode.com/problems/two-sum/?envType=list&envId=5f6kgmnj) | V | 題目其實是找尋一個元素在某個list裡（因為第一個元素的index已經可以找到) <br>因為要回傳位置，所以set不是好方法；而且set在一開始就會全包起來(記憶體會爆) <br> 用hashmap比較好, 他是動態新增記憶體 <br> step: O(n)最多只走n步 / memory: O(n)最多新增n個元素|
 | 02 | 2.Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=list&envId=5f6kgmnj) | V |  |
 | 03 | 3.Longest Palindromic Substring | [Link](https://leetcode.com/problems/longest-palindromic-substring/?envType=list&envId=5f6kgmnj) |  |  |
 | 04 | 4.Container With Most Water | [Link](https://leetcode.com/problems/container-with-most-water/?envType=list&envId=5f6kgmnj) | V | two pointer基本題 |
